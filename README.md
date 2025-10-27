@@ -1,7 +1,6 @@
 Zerodha Clone
 
 A comprehensive full-stack trading platform inspired by Zerodha’s Kite, designed to replicate essential stock trading functionalities such as user authentication, live market data visualization, order placement, and portfolio management.
-
 ---
 
 ## 🚀 Features
@@ -12,9 +11,9 @@ A comprehensive full-stack trading platform inspired by Zerodha’s Kite, design
 - User Portfolio and Transaction History
 - Responsive UI (React)
 - Secure REST APIs (Spring Boot + JWT)
-
 ---
 💻 Tech Stack: React, Node.js, Express.js, MySQL, JWT, CSS, BootStrap
+
 🎯 Purpose: Academic and portfolio project (non-commercial use)
 ---
 Folder Structure
