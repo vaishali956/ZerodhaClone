@@ -12,43 +12,52 @@ A comprehensive full-stack trading platform inspired by Zerodha’s Kite, design
 - Responsive UI (React)
 - Secure REST APIs (Spring Boot + JWT)
 ---
-💻 Tech Stack: React, Node.js, Express.js, MySQL, JWT, CSS, BootStrap
+💻 🛠️ Tech Stack
+Frontend (Dashboard)
+
+Framework: React
+
+Routing: React Router
+
+HTTP Requests: Axios
+
+Styling: Tailwind CSS
+
+State Management: React Hooks / Context API
+
+Build Tool: Vite (or Create React App)
+
+Backend (Server)
+
+Runtime Environment: Node.js
+
+Framework: Express.js
+
+Authentication: JSON Web Tokens (JWT)
+
+Database ORM: Sequelize / Knex.js (whichever you used)
+
+API Design: RESTful APIs
+
+Security: Bcrypt, Helmet, CORS
+
+Database
+
+Relational Database: MySQL
+
+Connection Management: Sequelize / MySQL2 driver
+
+Schema Design: Users, Stocks, Orders, Portfolio
+
+Development & Tools
+
+Version Control: Git & GitHub
+
+Package Managers: npm / yarn
+
+Environment Variables: dotenv
+
+Testing (optional): Jest / Postman
 
 🎯 Purpose: Academic and portfolio project (non-commercial use)
 ---
-Folder Structure
-
-ZerodhaClone/
-│
-├── backend/                # 🧩 Backend - Node.js (Express) server
-│   ├── src/
-│   │   ├── routes/         # API route handlers
-│   │   ├── controllers/    # Business logic
-│   │   ├── models/         # Database models (MySQL / Sequelize)
-│   │   ├── middleware/     # Authentication & security middleware
-│   │   └── server.js       # Entry point
-│   ├── package.json
-│   ├── .env
-│   └── README.md
-│
-├── frontend/               # 💻 Frontend - React client (user-facing app)
-│   ├── src/
-│   │   ├── components/     # Reusable UI components
-│   │   ├── pages/          # User pages (Home, Stocks, Portfolio, etc.)
-│   │   ├── assets/         # Images, icons, logos
-│   │   └── App.jsx         # Root component
-│   ├── package.json
-│   ├── vite.config.js
-│   └── .env
-│
-├── dashboard/              # 🧮 Admin Dashboard - React panel
-│   ├── src/
-│   │   ├── components/     # Dashboard UI components
-│   │   ├── pages/          # Admin pages (User list, Orders, etc.)
-│   │   ├── assets/         # Dashboard-specific assets
-│   │   └── App.jsx
-│   ├── package.json
-│   ├── vite.config.js
-│   └── .env
-│
-└── README.md               # 📘 Main project documentation
