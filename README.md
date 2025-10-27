@@ -17,6 +17,7 @@ A comprehensive full-stack trading platform inspired by Zerodha’s Kite, design
 🎯 Purpose: Academic and portfolio project (non-commercial use)
 ---
 Folder Structure
+
 ZerodhaClone/
 │
 ├── backend/                # 🧩 Backend - Node.js (Express) server
