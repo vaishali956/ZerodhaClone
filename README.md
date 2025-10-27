@@ -14,7 +14,7 @@ A comprehensive full-stack trading platform inspired by Zerodha’s Kite, design
 ---
 💻 🛠️ Tech Stack
 
-##Frontend (Dashboard)
+## Frontend (Dashboard)
 
 Framework: React
 
@@ -28,7 +28,7 @@ State Management: React Hooks / Context API
 
 Build Tool: Vite (or Create React App)
 
-##Backend (Server)
+## Backend (Server)
 
 Runtime Environment: Node.js
 
@@ -42,7 +42,7 @@ API Design: RESTful APIs
 
 Security: Bcrypt, Helmet, CORS
 
-##Database
+## Database
 
 Relational Database: MySQL
 
