@@ -22,7 +22,7 @@ Routing: React Router
 
 HTTP Requests: Axios
 
-Styling: Tailwind CSS
+Styling:  CSS & Bootstrap
 
 State Management: React Hooks / Context API
 
@@ -36,11 +36,9 @@ Framework: Express.js
 
 Authentication: JSON Web Tokens (JWT)
 
-Database ORM: Sequelize / Knex.js (whichever you used)
-
 API Design: RESTful APIs
 
-Security: Bcrypt, Helmet, CORS
+Security: Bcrypt, Helmet
 
 ## Database
 
@@ -54,11 +52,11 @@ Development & Tools
 
 Version Control: Git & GitHub
 
-Package Managers: npm / yarn
+Package Managers: npm 
 
 Environment Variables: dotenv
 
-Testing (optional): Jest / Postman
+Testing (optional): Postman
 
 🎯 Purpose: Academic and portfolio project (non-commercial use)
 ---
