@@ -1,7 +1,7 @@
 Zerodha Clone
 
 A comprehensive full-stack trading platform inspired by Zerodha’s Kite, designed to replicate essential stock trading functionalities such as user authentication, live market data visualization, order placement, and portfolio management.
----
+--
 
 ## 🚀 Features
 - User Registration and Login (JWT Authentication)
